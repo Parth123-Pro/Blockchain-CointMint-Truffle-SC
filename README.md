@@ -8,4 +8,4 @@
 
 ### Description: Oraclize is the leading oracle service for smart contracts and blockchain applications, serving thousands of requests every day on Ethereum, Bitcoin and Rootstock.
 #### Means for smart contracts to access data from external sources securely
-https://docs.provable.xyz/#ethereum
+https://docs.provable.xyz/#home
